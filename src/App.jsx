@@ -38,6 +38,4 @@ const App = () => {
   )
 }
 
-this should fail the build
-
 export default App
